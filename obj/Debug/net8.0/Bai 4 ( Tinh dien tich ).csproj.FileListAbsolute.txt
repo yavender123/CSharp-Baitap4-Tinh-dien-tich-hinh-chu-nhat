@@ -1,0 +1,14 @@
+D:\Code Visual Studio Code\Bai 4 ( Tinh dien tich )\bin\Debug\net8.0\Bai 4 ( Tinh dien tich ).exe
+D:\Code Visual Studio Code\Bai 4 ( Tinh dien tich )\bin\Debug\net8.0\Bai 4 ( Tinh dien tich ).deps.json
+D:\Code Visual Studio Code\Bai 4 ( Tinh dien tich )\bin\Debug\net8.0\Bai 4 ( Tinh dien tich ).runtimeconfig.json
+D:\Code Visual Studio Code\Bai 4 ( Tinh dien tich )\bin\Debug\net8.0\Bai 4 ( Tinh dien tich ).dll
+D:\Code Visual Studio Code\Bai 4 ( Tinh dien tich )\bin\Debug\net8.0\Bai 4 ( Tinh dien tich ).pdb
+D:\Code Visual Studio Code\Bai 4 ( Tinh dien tich )\obj\Debug\net8.0\Bai 4 ( Tinh dien tich ).GeneratedMSBuildEditorConfig.editorconfig
+D:\Code Visual Studio Code\Bai 4 ( Tinh dien tich )\obj\Debug\net8.0\Bai 4 ( Tinh dien tich ).AssemblyInfoInputs.cache
+D:\Code Visual Studio Code\Bai 4 ( Tinh dien tich )\obj\Debug\net8.0\Bai 4 ( Tinh dien tich ).AssemblyInfo.cs
+D:\Code Visual Studio Code\Bai 4 ( Tinh dien tich )\obj\Debug\net8.0\Bai 4 ( Tinh dien tich ).csproj.CoreCompileInputs.cache
+D:\Code Visual Studio Code\Bai 4 ( Tinh dien tich )\obj\Debug\net8.0\Bai 4 ( Tinh dien tich ).dll
+D:\Code Visual Studio Code\Bai 4 ( Tinh dien tich )\obj\Debug\net8.0\refint\Bai 4 ( Tinh dien tich ).dll
+D:\Code Visual Studio Code\Bai 4 ( Tinh dien tich )\obj\Debug\net8.0\Bai 4 ( Tinh dien tich ).pdb
+D:\Code Visual Studio Code\Bai 4 ( Tinh dien tich )\obj\Debug\net8.0\Bai 4 ( Tinh dien tich ).genruntimeconfig.cache
+D:\Code Visual Studio Code\Bai 4 ( Tinh dien tich )\obj\Debug\net8.0\ref\Bai 4 ( Tinh dien tich ).dll
